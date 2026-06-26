@@ -19,3 +19,12 @@ Our design philosophy focuses on maximizing UI (User Interface) accessibility an
 - Tremor-Countering SOS Interaction: A massive, centrally located emergency button designed to safely absorb accidental touches or sliding movements from shaky hands.
 - Iconic Language Chatbot: A dedicated visual cue-driven communication workflow allowing deaf or mute users to report specific incidents (fire, medical, injury) via single-tap icons without text entry.
 
+## Application Screenshots
+
+Splash Screen: ![Splash Screen](splash_screen.jpeg)
+Language: ![Language](language.jpeg)
+Home: ![Home](home.jpeg)
+Confirmation: ![Confirmation](confirmation.jpeg)
+ Tracking: ![Tracking](tracking.jpeg)
+ Chatbot: ![Chatbot](chatbot.jpeg)
+Settings: ![Settings](settings.jpeg)
